@@ -1,7 +1,5 @@
 # Olá, me chamo José Ricardo ! 
-### Bem vindo ao meu perfil GitHub 👋
-
-![Snake animation](https://github.com/Jrnagliati/Jrnagliati/blob/output/github-contribution-grid-snake.svg)
+### Bem vindo ao meu perfil GitHub 
 
 #### Ferramentas e Tecnologias
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" idth="40" height="40"/>
